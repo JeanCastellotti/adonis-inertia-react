@@ -1,5 +1,5 @@
 function HelloWorld() {
-  return <div>Hello Worlddd</div>
+  return <div className="text-6xl font-bold text-white">Hello World</div>
 }
 
 export default HelloWorld
